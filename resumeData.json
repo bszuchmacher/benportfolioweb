@@ -1,0 +1,179 @@
+{
+  "main": {
+    "name":"Ben Szuchmacher",
+    "occupation":"FullStack Developer 💻 and ✍️ Founder at BuntyJones Design Studio | ⚛️ ReactJS | 👷🏻+💪 Project Manager and Team Builder| 🐛 Expert at QA | 🍷 Wine Enthusiast|",
+    "description":"Some languages I dabble in are: ReactJS, NodeJS, Python, AngularJS, SQL and MongoDB",
+    "image":"profilepic.jpg",
+    "bio":" My name is Benjamin Szuchmacher. I am a dynamic and detail-oriented Full Stack Developer with a knack for conceptualizing and delivering elegant, user-friendly solutions effectively and efficiently. Armed with an extensive understanding of end-to-end SDLC and cloud computing, proficient in Front End and Back End technologies. Specific fields of interest include data analytics, Javascript, React.Js, Python, Vue, UI and UX technologies! ", 
+    "contactmessage":"If you have an awesome idea or project you need to get done, you need advice or just to chat and maybe meet for coffee...",
+    "email": "BSzuchmacher@gmail.com",
+    "phone": "In Israel: 058-403-7429",
+    "phone2": "Outside Israel: (972) 058-403-7429",
+    "address":{
+      "city":" Jerusalem",
+      "state":"Israel"
+    },
+    "website": "http://www.google.com",
+    "resumedownload":"https://drive.google.com/file/d/1W0BzMI9zULnxF6-9zGCLTWgZI8Ui3p5F/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/ben.szuchmacher",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/ben-szuchmacher-67b79987/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/bszuchmacher/",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Do you want to know what I am proficient in??",
+    "education":[
+      {
+        "school":"Israel Tech Challenge",
+        "degree":"Full Stack Web Development",
+        "graduated":"",
+        "description":"ITC's Computer FULL STACK/Data Science Bootcamp is a unique training course designed to transform hand-picked young professionals into qualified full-stack software developers. The program is a full time, 3.5 month, hands-on accelerator, which encourages research and self-led learning, as well as teamwork, all while incorporating industry's best practices. After the 3.5 months, the students are then placed in a two month internship where they can gain valuable experience and flourish in the market"
+      },
+      {
+        "school":"Coursera Web",
+        "degree":"Certificates",
+        "graduated":"N/A",
+        "description":"1) Python Programming Essentials, 2) Responsive Website Basics: Code with HTML, CSS and JavaScript, 3) Ruby on Rails (An Introduction)"
+      },
+      {
+        "school":"Front End Masters Web Courses",
+        "degree":"Modules",
+        "graduated":"~",
+        "description":" 😀 JavaScript: The Hard Parts v2, 😁 Complete Intro to React--v5, 😂 Deep JavaScript Foundations--v3, 🤣 JavaScript: From Fundamentals to Functions JS--v2, 🙋‍♂ CSS Grids and Flexbox for Responsive Web Design, 👍 JavaScript: The New Hard Parts, 🤘🏼 Intermediate React --v2"
+      },
+      {
+        "school":"Wayne State University",
+        "degree":"Bachelors Degree",
+        "graduated":"",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"EyeKnow",
+        "title":"Full Stack Developer",
+        "years":"Nov 2020 - Present",
+        "description":"🎥 EyeKnow automatically detects positive and negative caregiver-to-toddler behavior in kindergartens by processing video feeds from off-the-shelf CCTV cameras using AI and computer-vision algorithms. 🔎 Meaningful events are recorded and shared with kindergarten owners, law enforcement agencies, and government stakeholders, which results in a dramatic decrease in abuse incidents and a significant increase in caring quality.  ⚛️ Mainly used ReactJS, JavaScript, NodeJS, MongoDB, SQL, AWS, Docker and Python"
+      },
+      {
+        "company":"BuzzHunter",
+        "title":"Full Stack Developer",
+        "years":"Aug 2020 - December 2020",
+        "description":"💼 Managed projects for the two startups we took on at the agency. (BuzzHunter is a SaSS company). 💬 Collaborated with team members and other testers overseas to develop, test, and support product features. 💻 Worked with Engineers and Data Scientists to develop interactive, user-friendly applications. 🐛 In charge of QA testing for the website, bug checking as needed and submitting code fixes for the front end and back end. Agile was how we approached the planning, development, testing and support. 💼 In charge of making the design of website http://www.erticulate.com more user friendly and intuitive. 📐 Worked with Adobe and Figma. ⚛️ Mainly used ReactJS , SalesForce, Webflow (uploaded for client), JavaScript, NodeJS, MongoDB, SQL and Python"
+      },
+      {
+        "company":"Israel Tech Challenge",
+        "title":"Junior Web Developer Trainee ",
+        "years":"February 2020 - Present",
+        "description":"💻  Front-end: JavaScript (including ES6), ReactJS and Vue. 👨🏽‍💻 Back-end: 🐍 Python 3, SQL, NoSQL, Flask, Node.JS, ☁️☁️ Cloud: GCP (Cloud SQL, Serverless, Storage), Heroku (Dyno). Also taught were: REST APIs"
+      },
+      {
+        "company":"Blicode.co",
+        "title":"Managing Partner",
+        "years":"March 2019 - Present",
+        "description":"Consulting with clients on implementation of ideas and programming in languages such as HTML, JavaScript, and ReactJS. Creating products that are user-friendly, effective and appealing (UI/UX design). See what we are doing at http://www.blicode.co/"
+      },
+      {
+        "company":"BuntyJones Design Studio",
+        "title":"Founder",
+        "years":"Dec 2018 - Present",
+        "description":"🧠 BuntyJones Design Studio has been offering complete web design solutions to clients since 2018. We are based in Israel. 🧠 Our main focus is to clearly understand the core business visions of our clients, in order to bring about the transcending effect on their websites. ✈️ Designed and marketed website: http://www.israelwithdaniel.com. 🛩 Designed and marketed website: http://www.olimadvisors.com. 🤌 Designed and marketed website: http://www.eoskosher.com. 🥩 Designed and marketed website: http://www.avenuegrill.com. 🍣 Designed and marketed website: http://www.metsuyanteaneck.com"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"70%"
+      },
+      {
+        "name":"UI/UX",
+        "level":"95%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"90%"
+      },
+      {
+        "name":"CSS",
+        "level":"100%"
+      },
+      {
+        "name":"HTML5",
+        "level":"100%"
+      },
+      {
+        "name":"VueJs",
+        "level":"75%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"75%"
+      },
+      {
+        "name":"WordPress",
+        "level":"80%"
+      },
+      {
+        "name":"Bubble",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"FoodPrint (c) 2020",
+        "category":"Sustainability of Resources in the Environment.",
+        "image":"foodprint.jpeg",
+        "url":"https://foodprint-a7268.web.app/"
+      },
+      {
+        "title":"Olim Advisors",
+        "category":"Aliyah Advice ",
+        "image":"olim.jpeg",
+        "url":"http://www.olimadvisors.com"
+      },
+      {
+        "title":"Elizabeth One Stop Kosher",
+        "category":"Kosher Market ",
+        "image":"eoskosher.jpeg",
+        "url":"http://www.eoskosher.com"
+      },
+      {
+        "title":"Israel with Daniel",
+        "category":"Best Tour Guide ",
+        "image":"israelwithdaniel.jpeg",
+        "url":"http://www.israelwithdaniel.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"After working closely with Ben I can say that the dedication and attention to details in his designs makes him a great Front end developer and UI/UX designer. Any company that will take him will greatly gain from his talent",
+        "user":"Eduardo Margulis MBA/MA"
+      },
+      {
+        "text":"Your website you created is incredible - put together in less than 2 days ((MIND BLOWN))",
+        "user":"Rabbi Dovid Baars"
+      },
+      {
+        "text":"Hey Ben... Just got home and saw the final product. Unbelievable I can't believe that you did it out so quickly and professionally! I really really appreciate it, I'm so happy I got your referral. You saved me so much time and money, I want you to do all my sites. ",
+        "user":"Daniel Gutman http://www.israelwithdaniel.com"
+      }
+    ]
+  }
+}
