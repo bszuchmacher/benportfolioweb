@@ -22,7 +22,10 @@
 /* a. General Styles
 /* ------------------------------------------------------------------ */
 
-body { background: #0f0f0f; }
+body { 
+   background: #0f0f0f; 
+   font-family: 'Vollkorn', serif;
+}
 
 /* ------------------------------------------------------------------ */
 /* b. Header Styles
@@ -39,6 +42,7 @@ header {
 	-webkit-background-size: cover !important;
    text-align: center;
    overflow: hidden;
+   font-family: 'Vollkorn', serif;
 }
 
 /* vertically center banner section */
@@ -59,14 +63,14 @@ header .banner {
 
 header .banner-text { width: 100%; }
 header .banner-text h1 {
-   font: 90px/1.1em 'opensans-bold', sans-serif;
+   font: 90px/1.1em 'Vollkorn', serif;;
    color: #fff;
    letter-spacing: -2px;
    margin: 0 auto 18px auto;
    text-shadow: 0px 1px 3px rgba(0, 0, 0, .8);
 }
 header .banner-text h3 {
-   font: 18px/1.9em 'librebaskerville-regular', serif;
+   font: 22px/1.9em 'Vollkorn', serif;;
    color: whitesmoke;
    margin: 0 auto;
    width: 70%;
@@ -131,7 +135,7 @@ header .scrolldown a:hover { color: #11ABB0; }
 
 /* nav-wrap */
 #nav-wrap {
-   font: 12px 'opensans-bold', sans-serif;
+   font: 15px 'Vollkorn', serif;
    width: 100%;
    text-transform: uppercase;
    letter-spacing: 2.5px;
@@ -188,7 +192,7 @@ ul#nav li.current a { color: #11ABB0; }
 /* ------------------------------------------------------------------ */
 
 #about {
-   background: #2B2B2B;
+   background: black;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
@@ -198,7 +202,7 @@ ul#nav li.current a { color: #11ABB0; }
 #about a:hover, #about a:focus { color: #11ABB0; }
 
 #about h2 {
-   font: 22px/30px 'opensans-bold', sans-serif;
+   font: 30px/30px 'Vollkorn', serif;;
    color: #fff;
    margin-bottom: 12px;
 }
@@ -249,13 +253,14 @@ ul#nav li.current a { color: #11ABB0; }
    padding-bottom: 72px;
    overflow: hidden;
    color:white;
+   opacity: ;
 }
 
 #resume a, #resume a:visited  { color: #11ABB0; }
 #resume a:hover, #resume a:focus { color: #313131; }
 
 #resume h1 {
-   font: 18px/24px 'opensans-bold', sans-serif;
+   font: 18px/24px 'Vollkorn', serif;
    text-transform: uppercase;
    letter-spacing: 1px;
    color:white;
@@ -266,7 +271,7 @@ ul#nav li.current a { color: #11ABB0; }
    color:white;
 }
 #resume h3 {
-   font: 25px/30px 'opensans-bold', sans-serif;
+   font: 30px/30px 'Vollkorn', serif;;
    color:white;
 }
 
@@ -280,7 +285,7 @@ ul#nav li.current a { color: #11ABB0; }
    color:white;
 }
 #resume .info {
-   font: 16px/24px 'librebaskerville-italic', serif;
+   font: 18px/24px 'Vollkorn', serif;
    color:white;
    margin-bottom: 18px;
    margin-top: 9px;
@@ -290,14 +295,65 @@ ul#nav li.current a { color: #11ABB0; }
    margin-left: 5px;
 }
 #resume .date {
-   font: 15px/24px 'opensans-regular', sans-serif;
+   font: 18px/24px 'Vollkorn', serif;;
    margin-top: 6px;
 }
 
 /*----------------------------------------------*/
 /*	Skill Bars
 /*----------------------------------------------*/
+/* SKILLS  */
 
+/* skills heading underline color */
+#resume h1 span {
+   border-bottom: 3px solid var(--accent-color);
+   padding-bottom: 6px;
+ }
+ 
+ #skills {
+   background-color: black;
+   width: 100%;
+   padding-top: 40px;
+   
+ }
+ 
+ #skills h1 {
+   font-family: 'Vollkorn', serif;
+   text-align: center;
+   font-size: 28px;
+   
+ }
+ #skills h2 {
+   font-family: 'Vollkorn', serif;
+   text-align: center;
+   font-size: 38px;
+   
+ }
+ 
+ #skills td {
+   padding: 30px 50px 30px 50px;
+   width: 50%;
+   font-family: 'Vollkorn' serif;
+
+ }
+ #skills table {
+   margin-left: auto;
+   margin-right: auto;
+ }
+ 
+ #skills h2,
+ #skills td,
+ #skills p {
+   text-align: center;
+   font-size: 21px;
+   font-family: 'Vollkorn' serif;
+   
+ }
+ 
+ .table-container {
+   margin: 25px 100px 25px 100px;
+   overflow-x: auto;
+ }
 .bars {
 	width: 95%;
 	float: left;
@@ -435,7 +491,7 @@ ul#nav li.current a { color: #11ABB0; }
    padding-bottom: 60px;
 }
 #portfolio h1 {
-   font: 18px/70px 'opensans-semibold', sans-serif;
+   font: 18px/70px 'Vollkorn', serif;;
    text-transform: uppercase;
    letter-spacing: 1px;
    text-align: center;
@@ -606,7 +662,7 @@ ul#nav li.current a { color: #11ABB0; }
    padding-bottom: 48px;
 }
 #call-to-action h1 {
-   font: 18px/24px 'opensans-bold', sans-serif;
+   font: 18px/24px 'Vollkorn', serif;;
    text-transform: uppercase;
    letter-spacing: 3px;
    color: #fff;
@@ -658,7 +714,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-   background: #1F1F1F url(https://images.pexels.com/photos/1448136/pexels-photo-1448136.jpeg?cs=srgb&dl=pexels-john-nail-1448136.jpg&fm=jpg) no-repeat center center;
+   background: #161415 url(https://images.pexels.com/photos/36717/amazing-animal-beautiful-beautifull.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260) no-repeat top center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    background-attachment: fixed;
@@ -673,7 +729,7 @@ call-to-action .button {
    padding-bottom: 66px;
 }
 #testimonials h1 {
-   font: 18px/24px 'opensans-bold', sans-serif;
+   font: 18px/24px 'Vollkorn', serif;;
    text-transform: uppercase;
    letter-spacing: 3px;
    color: #fff;
@@ -700,7 +756,7 @@ call-to-action .button {
 }
 #testimonials blockquote:before { content: none; }
 #testimonials blockquote p {
-   font-family: 'librebaskerville-italic', serif;
+   font-family: 'Vollkorn', serif;
    padding: 0;
    font-size: 24px;
    line-height: 48px;
@@ -807,7 +863,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #contact {
-   background: #191919;
+   background: black;
    padding-top: 96px;
    /* padding-bottom: 102px; */
    color:white;;
@@ -818,7 +874,7 @@ call-to-action .button {
 #contact a:hover, #contact a:focus { color: #fff; }
 
 #contact h1 {
-   font: 18px/24px 'opensans-bold', sans-serif;
+   font: 18px/24px 'Vollkorn', serif;;
    text-transform: uppercase;
    letter-spacing: 3px;
    color: #EBEEEE;
@@ -842,7 +898,7 @@ call-to-action .button {
    margin-bottom: 6px;
 }
 #contact p.lead {
-   font: 20px/36px 'opensans-light', sans-serif;
+   font: 20px/36px 'Vollkorn', serif;;
    padding-right: 3%;
 }
 #contact .header-col { padding-top: 6px; }
@@ -851,7 +907,7 @@ call-to-action .button {
 /* contact form */
 #contact form { margin-bottom: 30px; }
 #contact label {
-   font: 15px/24px 'opensans-bold', sans-serif;
+   font: 15px/24px 'Vollkorn', serif;;
    margin: 12px 0;
    color: #EBEEEE;
 	display: inline-block;
