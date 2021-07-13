@@ -32,11 +32,12 @@ class Contact extends Component {
             <div className="ten columns">
 
                   <p className="lead">{message}</p>
-                  {/* <h1><span>Get In Touch.</span></h1> */}
+                  <h1><span>Get In Touch.</span>
+                  <a target="submit" className="submit" href="mailto:BSzuchmacher@gmail.com">CLICK ME TO GET IN TOUCH</a></h1>
               <br></br>
               <br></br>
               <br></br>
-               <a target="submit" className="submit" href="mailto:BSzuchmacher@gmail.com">CLICK ME TO GET IN TOUCH</a>
+               {/* <a target="submit" className="submit" href="mailto:BSzuchmacher@gmail.com">CLICK ME TO GET IN TOUCH</a> */}
 
             </div>
 
@@ -68,9 +69,9 @@ class Contact extends Component {
                      <textarea cols="50" rows="15" id="contactMessage" name="contactMessage"></textarea>
                   </div> */}
  
-                  <div>
+                  {/* <div> */}
                      {/* <button className="submit" >Submit</button> */}
-                     <span id="image-loader">
+                     {/* <span id="image-loader">
                         <img alt="" src="images/loader.gif" />
                      </span>
                   </div>

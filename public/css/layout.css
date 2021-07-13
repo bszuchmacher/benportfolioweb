@@ -34,7 +34,7 @@ header {
    min-height: 500px;
    width: 100%;
    /* background: #161415 url(../images/digitalback.jpg) no-repeat top center; */
-   background: #161415 url(https://cdn.wallpapersafari.com/51/28/yJSeK9.jpg) no-repeat top center;
+   background: #161415 url(https://images.pexels.com/photos/36717/amazing-animal-beautiful-beautifull.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260) no-repeat top center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -240,7 +240,7 @@ ul#nav li.current a { color: #11ABB0; }
    position: relative;
    width: 100%;
    /* background: #161415 url(../images/digitalback.jpg) no-repeat top center; */
-   background: #161415 url(https://cdn.wallpapersafari.com/51/28/yJSeK9.jpg) no-repeat top center;
+   background: #161415 url(https://images.pexels.com/photos/206359/pexels-photo-206359.jpeg?cs=srgb&dl=pexels-pixabay-206359.jpg&fm=jpg) no-repeat top center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -658,7 +658,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-   background: #1F1F1F url(https://cdn.wallpapersafari.com/51/28/yJSeK9.jpg) no-repeat center center;
+   background: #1F1F1F url(https://images.pexels.com/photos/1448136/pexels-photo-1448136.jpeg?cs=srgb&dl=pexels-john-nail-1448136.jpg&fm=jpg) no-repeat center center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    background-attachment: fixed;
@@ -809,12 +809,12 @@ call-to-action .button {
 #contact {
    background: #191919;
    padding-top: 96px;
-   padding-bottom: 102px;
+   /* padding-bottom: 102px; */
    color:white;;
 }
 #contact .section-head { margin-bottom: 42px; }
 
-#contact a, #contact a:visited  { color: #11ABB0; font-size: 32px; margin-left: 160px;}
+#contact a, #contact a:visited  { color: #11ABB0; font-size: 32px;}
 #contact a:hover, #contact a:focus { color: #fff; }
 
 #contact h1 {
@@ -832,7 +832,7 @@ call-to-action .button {
 	font-size: 72px;
    line-height: 72px;
    text-align: left;
-   float: left;
+   
    color: #ebeeee;
 }
 
