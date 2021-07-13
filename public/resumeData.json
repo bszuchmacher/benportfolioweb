@@ -1,19 +1,19 @@
 {
   "main": {
     "name":"Ben Szuchmacher",
-    "occupation":"💻 Software Engineer , 💼 Project Manager and the ✍️ Founder of BuntyJones Design Studio | 🍷 Wine Enthusiast|",
-    "description":"Some languages I dabble in are: ReactJS, NodeJS, Python, SQL and MongoDB",
+    "occupation":" 💼 Operations Manager at RaziCo | 💻 Software Developer | 🍷 Wine Enthusiast|",
+    "description":"🎬 Over 10 years of experience in directing service operations initiatives and in partner enablement. 🧩 Excellence always in ensuring that the company's team members are well-orchestrated.",
     "image":"profilepic.jpg",
-    "bio":" My name is Benjamin Szuchmacher. I am a dynamic and detail-oriented Software Engineer and Project Manager with a knack for conceptualizing and delivering elegant, user-friendly solutions effectively and efficiently. Armed with an extensive understanding of end-to-end SDLC and cloud computing, proficient in Front End and Back End technologies. I also possess more than 10 years of experience in directing service operations initiatives and in partner enablement. I demonstrate excellence in ensuring that the company's team members are well-orchestrated with their partner counterparts and leveraged around accounts and opportunities, by strategy and capabilities of each partner", 
-    "contactmessage":"If you have an awesome idea or project you need to get done, you need advice or just to chat and maybe meet for coffee...",
+    "bio":" My name is Benjamin Szuchmacher. I am the Operations Manager @ RaziCo. My passion lies in Organization and Operations. I am also a dynamic and detail-oriented Software Developer with a knack for conceptualizing and delivering elegant, user-friendly solutions effectively and efficiently. Armed with an extensive understanding of end-to-end SDLC and cloud computing, proficient in Front End and Back End technologies.", 
+    "contactmessage":"If you have an awesome idea or project you need to get done, you need advice or just to chat and maybe meet for coffee...Drop me a line @ ben.s@razico.co and let me put my experience to work for you",
     "email": "BSzuchmacher@gmail.com",
     "phone": "(972) 058-403-7429",
     "address":{
       "city":" Mitzpe Yericho",
       "state":"Israel"
     },
-    "website": "http://www.google.com",
-    "resumedownload":"https://drive.google.com/file/d/1gJrsumjoy0t7EBr8XSmgtT_ThssCqfSP/view?usp=sharing",
+    "website": "http://www.razico.co",
+    "resumedownload":"https://drive.google.com/file/d/1DYHSOUD1taPyzLnuy_Nr83JjSTBQHLnK/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -33,7 +33,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Do you want to know what I am proficient in??",
+    "skillmessage":"~~~??",
     "education":[
       {
         "school":"Wayne State University",
@@ -46,25 +46,19 @@
         "degree":"Full Stack Web Development",
         "graduated":"~",
         "description":"ITC's Computer FULL STACK/Data Science Bootcamp is a unique training course designed to transform hand-picked young professionals into qualified full-stack software developers. The program is a full time, 3.5 month, hands-on accelerator, which encourages research and self-led learning, as well as teamwork, all while incorporating industry's best practices. After the 3.5 months, the students are then placed in a two month internship where they can gain valuable experience and flourish in the market"
-      },
-      {
-        "school":"Coursera Web",
-        "degree":"Certificates",
-        "graduated":"N/A",
-        "description":"1) Python Programming Essentials, 2) Responsive Website Basics: Code with HTML, CSS and JavaScript, 3) Ruby on Rails (An Introduction)"
-      },
-      {
-        "school":"Front End Masters Web Courses",
-        "degree":"Modules",
-        "graduated":"~",
-        "description":" 😀 JavaScript: The Hard Parts v2, 😁 Complete Intro to React--v5, 😂 Deep JavaScript Foundations--v3, 🤣 JavaScript: From Fundamentals to Functions JS--v2, 🙋‍♂ CSS Grids and Flexbox for Responsive Web Design, 👍 JavaScript: The New Hard Parts, 🤘🏼 Intermediate React --v2"
       }
     ],
     "work":[
       {
+        "company":"RaziCo",
+        "title":"Operations Manager",
+        "years":"June 2021 - Present",
+        "description":"In my role as Director of Operations at RaziCo, my goal is to help our clients maximize the impact of their eCommerce efforts. We start by pinpointing problems and opportunities in their sales funnels, Roadmapping long term and short term actionable strategies to address these opportunities, and then implement them."
+      },
+      {
         "company":"Welldone Software",
-        "title":"Software Engineer",
-        "years":"March 2021 - Present",
+        "title":"Software Engineer Contract",
+        "years":"March 2021 - May 2021",
         "description":"Welldone Software provides consulting, mentoring and software development services with the exceptional quality delivered by a handpicked team of experienced and innovative full-stack professionals who are passionate about their code."
       },
       {
@@ -84,12 +78,6 @@
         "title":"Supervisor/Project Manager ",
         "years":"Feb 2011 - November 2018",
         "description":"🔎 Participation in marking efforts including development of proposals project scope of work and fee. 🔎 Managed cross functional projects to improve store processes, technology, equipment, stock etc. 🔎 Organized, lead and managed project releases through iteration kickoff to deployment."
-      },
-      {
-        "company":"Blicode.co",
-        "title":"CTO and Project Manager",
-        "years":"March 2019 - Present",
-        "description":"Consulting with clients on implementation of ideas and programming in languages such as HTML, JavaScript, and ReactJS. Creating products that are user-friendly, effective and appealing (UI/UX design). See what we are doing at http://www.blicode.co/"
       },
       {
         "company":"BuntyJones Design Studio",
